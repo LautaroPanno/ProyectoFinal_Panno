@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "nombre": "Jabón",
+      "precio": 1000,
+      "descripcion": "Jabon neutro sin aditivos extras",
+      "imagen": "./images/jabon.svg"
+    },
+    {
+      "id": "2",
+      "nombre": "Limpiatapizados",
+      "precio": 5000,
+      "descripcion": "Producto para lavar sillones y butacas",
+      "imagen": "./images/limpiatapizados.svg"
+    },
+    {
+      "id": "3",
+      "nombre": "Desinfectante",
+      "precio": 1300,
+      "descripcion": "Spray 300cc que elimina el 99,9% de bacterias",
+      "imagen": "./images/desinfectante.svg"
+    },
+    {
+      "id": "4",
+      "nombre": "Cepillo",
+      "precio": 1000,
+      "descripcion": "Cepillo de mano muy resistente",
+      "imagen": "./images/cepillo.svg"
+    },
+    {
+      "id": "5",
+      "nombre": "Aspiradora",
+      "precio": 15000,
+      "descripcion": "Aspiradora de polvo y agua para lavar tapizados",
+      "imagen": "./images/aspiradora.svg"
+    },
+    {
+      "id": "6",
+      "nombre": "Quitamanchas",
+      "precio": 1500,
+      "descripcion": "Remueve todo tipo de manchas en telas",
+      "imagen": "./images/quitamanchas.svg"
+    },
+    {
+      "id": "7",
+      "nombre": "Perfume",
+      "precio": 1500,
+      "descripcion": "Perfume con aroma colirio",
+      "imagen": "./images/spray.svg"
+    },
+    {
+      "id": "8",
+      "nombre": "Aromatizante",
+      "precio": 1000,
+      "descripcion": "Aromatizador de ambientes con esencia de lavanda",
+      "imagen": "./images/aromatizante.svg"
+    },
+    {
+      "id": "9",
+      "nombre": "Desengrasante",
+      "precio": 2000,
+      "descripcion": "Remueve aceite impregnado eficientemente",
+      "imagen": "./images/desengrasante.svg"
+    }
+  ]
