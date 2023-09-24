@@ -1,6 +1,6 @@
 const fetchDatas = async () => {
   try {
-    const res = await fetch('../json/productos.json');
+    const res = await fetch('../Json/productos.json');
     if (!res.ok) {
       throw new Error(`No se pudo acceder al enlace solicitado. Código de estado: ${res.status}`);
     }
